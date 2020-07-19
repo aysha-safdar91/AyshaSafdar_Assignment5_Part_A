@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TOCSpr20_AyshaSafdar_A5_PartA",
+"productVersion": "0.1",
+"dataUrl": "WebGLToday.data.unityweb",
+"wasmCodeUrl": "WebGLToday.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGLToday.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#818080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
